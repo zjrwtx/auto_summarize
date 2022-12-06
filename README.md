@@ -2,7 +2,8 @@
 基于python和openai的api为文章自动生成摘要，只需要提供原文链接。公众号【正经人王同学】
 
 # 完整示例代码
-![image](https://user-images.githubusercontent.com/86822589/205922023-e91b946c-5884-4c71-98e9-ac9dead4aa52.png)
+![image](https://user-images.githubusercontent.com/86822589/205925664-e87e41c5-7723-418d-b3c0-8f718d73dbd4.png)
+
 
 # 测试的原文章
 ![image](https://user-images.githubusercontent.com/86822589/205922740-33754aa2-b426-46bf-9b78-d75337f56aee.png)
