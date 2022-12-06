@@ -1,10 +1,14 @@
+#基于python和openai的api为文章（含论文）自动生成摘要，只需要提供原文链接
+#公众号【正经人王同学】
+#日期2022-12-6
+
 #导入相关库
 import requests
 import json
 import openai
 
-#设置自己的api密钥
-openai.api_key = "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"
+#设置自己的api密钥（到openai官网获取）
+openai.api_key = "example"
 
 
 #定义生成文章摘要的函数
